@@ -1,0 +1,1 @@
+https://www.makeuseof.com/tag/write-simple-batch-bat-file/
